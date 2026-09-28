@@ -2,7 +2,7 @@
 
 **Project Code:** WST21-PM-2026-SF  
 **Student Name:** Earl Jay Ceballos
-**Course & Year:** BSIT - 2nd Year, Section IT 2-Sec05  
+**Course & Year:** BSIT - 2nd Year, Section IT 2-Sec09
 **Database Used:** Supabase (PostgreSQL)  
 
 ## Features
